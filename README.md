@@ -5,7 +5,7 @@
   <br>
   🛠️ Tinkering with voice + text + HTML systems  
   <br><br>
-  <a href="https://yourwebsite.com">🌐 Website</a> | <a href="mailto:your@email.com">📩 Email</a>
+  <a href="https://putridinar.github.io">🌐 Website</a> | <a href="mailto:your@email.com">📩 Email</a>
 </p>
 
 ---
